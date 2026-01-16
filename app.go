@@ -7,6 +7,7 @@ import (
 // App struct
 type App struct {
 	ctx context.Context
+	// 修改
 }
 
 // NewApp creates a new App application struct
